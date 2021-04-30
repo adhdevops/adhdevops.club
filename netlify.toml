@@ -1,0 +1,7 @@
+command = "git submodule update --init --recursive --depth=1 && hugo --minify"
+
+[build.environment]
+HUGO_VERSION = "0.76.5"
+
+[context.branch-deploy.environment]
+  HUGO_BASEURL = "/"
