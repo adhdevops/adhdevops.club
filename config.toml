@@ -1,7 +1,0 @@
-baseURL = "https://adhdevops.club/"
-languageCode = "en-us"
-title = "ADHDevOps.club"
-theme = "book"
-
-[permalinks]
-  posts = "/posts/:year/:month/:day/:slug/"
