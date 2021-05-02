@@ -58,7 +58,7 @@ Of course, the reason my post-it wall worked for me was the location.
 
 ## Trello Review
 
-Trello is the simplest, easiest to use kanban board I've ever seen.
+[Trello](https://trello.com/) is the simplest, easiest to use kanban board I've ever seen.
  It's definitely my go-to suggestion for people who want to get a feel for how to do kanban.
  Since it was bought by Atlassian, it's been fleshed out with more optional features, but I suggest ignoring all that unless you're used to something complicated like Jira and want a more fully-featured experience.
 
