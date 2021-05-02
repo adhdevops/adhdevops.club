@@ -33,7 +33,7 @@ Most of that isn't relevant to ADHD, of course.
  probably, if you're like me, you feel like you're running on top of a giant ball, trying desperately to keep from being crushed.
  How can Kanban help with that?
 
-If you're like most of us here at the ADHD Devops Club, you've forgotten a lot of things you meant to get done.
+If you're like most of us here at the ADHD DevOps Club, you've forgotten a lot of things you meant to get done.
  Like most of us, you've probably tried post-it notes, but then you lose the post-its!
  I solved this by making a kanban board out of post-it notes on my crafts room wall.
 
@@ -64,13 +64,13 @@ Of course, the reason my post-it wall worked for me was the location.
 
 ![Example kanban board in Trello. The background is an obnoxious bright pink. There are four columns: Parking Lot, To Do, Today, and Done. Each has several boxes with short items like "buy new shoes" or "watch game of thrones". To the right is a menu of options.](/images/trello.png)
 
-First of all, I should put many of your mind at ease:
+First of all, I should put many of your minds at ease:
  the pink background is not standard, this screenshot has been customized.
  You can put photos or colors as a background to your boards to help distinguish one from another;
  the pink is my way of saying this is my personal board, as opposed to my crafting board or my professional board or my writing board.
  (I have a lot of hobbies!)
 
-A new board in trello actually begins empty;
+A new board in Trello actually begins empty;
  you are given a curser with a text box at the top of the only column, ready to name it.
  Naming the column saves it and generates another, and another, until you have the column layout you want.
  To add a "card" (or to-do item), you click the "add card" button in any column.
