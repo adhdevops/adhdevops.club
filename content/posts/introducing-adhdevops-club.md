@@ -3,7 +3,7 @@ title: "Introducing ADHDevOps.club!"
 date: 2021-04-30T10:56:31-07:00
 slug: introducing
 categories: ["Community"]
-tags: [""]
+tags: ["community"]
 author:
   name: Shelby Spees
   url: https://shelbyspees.com
