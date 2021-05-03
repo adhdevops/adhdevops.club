@@ -97,3 +97,7 @@ And that's probably the best part of Trello:
  the biggest pinch is probably the 10 board limit, however, and that's not usually something you'll run into unless you have a ton of hobbies.
  You don't really need their fancy "butler" stuff, their integration with other software, their "power-ups", or their calendar view to organize your life right now.
  The closer you get to having a fully fledged workplace all using Trello coordinated, the more you'll want to pay for the product, which is a genius strategy, since it charges companies that have the extra budget to pay for all of us ADHD folks who just need a replacement for post-it notes that lives in the cloud. Give it a shot today, it might just change your life.
+
+
+ Be Well,  
+ [Bay Gaillard](https://bay.green-gaillard.com)(they/them)
