@@ -6,7 +6,7 @@ author:
   name: "Bay Gaillard"
   url: "https://bay.green-gaillard.com"
   pronouns: "they/them"
-tags: [""]
+tags: ["review", "trello", "kanban", "organization", "projects"]
 ---
 
 One of the tools [Chloe Condon](https://twitter.com/ChloeCondon) suggested at
