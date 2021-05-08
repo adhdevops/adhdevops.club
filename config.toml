@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "ADHDevOps.club"
 theme = "ezhil"
 paginate = 5
+copyright = "ADHDevOps.club © 2021"
 
 [permalinks]
 posts = "/posts/:year/:month/:day/:slug/"
@@ -17,7 +18,6 @@ pygmentscodefencesguesssyntax = true
 summaryLength = 20
 
 [params]
-subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
 disableDisqusTypes = ["page"]
 featherIconsCDN = true
 

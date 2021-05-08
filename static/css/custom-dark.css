@@ -1,4 +1,19 @@
+/* only need to overwrite colors from custom.css */
+
 body {
-  /* override background color to be more muted */
+  /* more muted background color */
   background-color: #181818;
+}
+
+h1.site-title {
+  border-bottom: 1px solid #777;
+}
+
+.recent-posts .section-title {
+  border-bottom: 1px solid #777;
+}
+
+.recent-posts .posts .post .meta {
+  /* better color contrast */
+  color: #ddd;
 }

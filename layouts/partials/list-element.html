@@ -1,0 +1,15 @@
+<article class="post">
+  <h3 class="title"><a href="{{ .RelPermalink }}">{{.Title}}</a></h3>
+  <section class="meta">
+    {{ dateFormat "Jan 2, 2006" .Date  | upper }}
+    {{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}
+  </section>
+  <span class="description">
+    {{ if isset .Params "description" }}
+    {{ .Description }}
+    {{ else }}
+    {{ .Summary }}
+    <a class="read-more" href="{{ .RelPermalink }}">CONTINUE READING →</a>
+    {{ end }}
+  </span>
+</article>

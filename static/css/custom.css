@@ -1,1 +1,76 @@
-/* no custom css in light mode, yet */
+body {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+/* headings should be bold */
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 600;
+}
+
+.header nav {
+    /* completely restyle this */
+    margin-top: 0px;
+    border: none;
+}
+
+/* icons */
+.feather {
+    width: 24px;
+    height: 24px;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+}
+
+h1.site-title {
+    font-size: 2.75rem; /* use default font size for site title */
+    padding-bottom: 0.1em;
+    border-bottom: 1px solid #bbb;
+}
+
+.recent-posts .section-title {
+    margin-top: 1.5em;
+    padding-bottom: 0.1em;
+    border-bottom: 1px solid #bbb;
+}
+
+.recent-posts .posts .post {
+    margin-bottom: 2em;
+}
+
+.recent-posts .posts .post .meta {
+    /* better color contrast */
+    color: #333;
+    font-size: 0.75em;
+    padding-left: 0.1em;
+}
+
+.recent-posts .posts .post .title {
+    margin: 0;
+    padding-bottom: 0.2em;
+}
+
+.recent-posts .posts .post .description > p {
+    padding-bottom: 0.5em;
+    margin: 0;
+}
+
+a.read-more {
+    font-size: 0.75em;
+}
+
+
+/* footer */
+footer .text,
+footer .feather {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+footer .feather {
+    width: auto;
+    height: 1em;
+}
