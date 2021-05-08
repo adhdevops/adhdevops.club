@@ -3,4 +3,4 @@
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
 [submodule "themes/ezhil"]
 	path = themes/ezhil
-	url = git@github.com:vividvilla/ezhil.git
+	url = https://github.com/adhdevops/ezhil.git
