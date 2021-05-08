@@ -40,16 +40,6 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
-
 [[params.social]]
 name = "Github"
 icon = "github"

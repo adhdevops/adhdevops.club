@@ -2,8 +2,7 @@
 title: "Home"
 ---
 
-ADHD + DevOps, the club.
+**ADHD + DevOps, the club.**
 
-We're tech workers with ADHD and we want to help more people like us succeed.
-
-You can find us at <https://github.com/adhdevops/adhdevops.club>
+We're a community of tech workers with ADHD who want to help folks like us succeed.
+You can find us on [GitHub](https://github.com/adhdevops/adhdevops.club).
