@@ -13,7 +13,6 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # googleAnalytics = ""
-# disqusShortname = ""
 
 summaryLength = 20
 
