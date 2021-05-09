@@ -35,6 +35,12 @@ These guides have great info for developers and designers:
 - [guide to accessible typefaces and fonts](https://webaim.org/techniques/fonts/)
 - [guide to accessible text and typographical layout](https://webaim.org/techniques/textlayout/)
 
+## Contribute design/layout/etc. improvements
+
+The site's theme is a custom fork hosted at
+[adhdevops/ezhil](https://github.com/adhdevops/ezhil).
+If you have feedback or suggestions, please open an issue there!
+
 ## Contribute content
 
 You don't need to be able to run the site locally to contribute content,
@@ -43,11 +49,6 @@ Please see [DEVELOPMENT.md](/docs/DEVELOPMENT.md) for instructions.
 
 When in doubt, open an issue!
 
-## Contribute design/layout/etc. improvements
-
-The site's theme is a custom fork hosted at
-[adhdevops/ezhil](https://github.com/adhdevops/ezhil).
-If you have feedback or suggestions, please open an issue there!
 
 ### Non-blog content
 
