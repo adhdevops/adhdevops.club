@@ -23,6 +23,9 @@ featherIconsCDN = true
 # Light or dark theme. "auto" is based on user's browser preferences
 themeColor = "light" # "dark", "auto", "light"
 
+# lives in static/ directory of site
+logo = "simple-logo-light-mode.png"
+
 [[menu.main]]
 name = "Home"
 url = "/"
