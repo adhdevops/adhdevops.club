@@ -21,13 +21,7 @@ disableDisqusTypes = ["page"]
 featherIconsCDN = true
 
 # Light or dark theme. "auto" is based on user's browser preferences
-mode = "auto" # "dark", "auto", "light"
-
-# Custom styling
-# Must live inside `static/` directory in site repo
-customCSS = "css/custom.css" # Custom CSS applied to default styles
-customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+themeColor = "light" # "dark", "auto", "light"
 
 [[menu.main]]
 name = "Home"
