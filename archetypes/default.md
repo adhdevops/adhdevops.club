@@ -1,6 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
 draft: true
+# slug: "short-friendly-name"
+# categories: [""]
+# tags: [""]
+# description: |
+#   Multiple lines of text can go here.
 ---
-
