@@ -100,14 +100,29 @@ Some rules to know, to save you revision time:
   (note: if your lists items contain multiple sentences,
   consider whether they should be a list in the first place)
 
-## English language spelling
+## Formatting
 
-Outside of blog posts, please use US English spelling.
+To reduce visual noise, please avoid using many different kinds of formatting.
+Keywords should be **bold** (`**bold**`).
+These get rendered with `<strong>` semantic tags.
+
+Avoid using _italics_ (`_italics_` or `*italics*`) for emphasis.
+These get rendered with `<em>` (emphasis) semantic tags.
+[Bold is more visually distinct than italic for sans-serif fonts](https://practicaltypography.com/bold-or-italic.html),
+which makes it a better formatting choice for web content
+where people tend to skim.
 
 Non-English words should be _italicized_.
 To italicize a word in Markdown,
 surround the word with underscores (`_`),
-one at the beginning and another at the end.
+one at the beginning and another at the end: `_italicized_`
+
+Only use CAPS for words that are actually capitalized
+like SQL operations ("SELECT") or abbreviations ("LGBTQ").
+
+## English language spelling
+
+Outside of blog posts, please use US English spelling.
 
 ### Blog posts
 
@@ -128,7 +143,8 @@ In prose, spell out the date in full. For example:
 
 [The Microsoft style guide date guidelines](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)
 are more strict about date formats.
-For ADHDevOps blog posts, authors can choose their favorite format.
+For ADHDevOps blog content,
+authors can use their preferred format of the ones listed above.
 
 For numeric dates, use
 [ISO 8601 style](https://en.wikipedia.org/wiki/ISO_8601),
@@ -136,8 +152,8 @@ ordered year-month-day, e.g. `2021-01-01`.
 
 ## Key terminology
 
-Here's a list of words we're likely to use frequently.
-Please follow the spelling, capitalization, and punctuation here:
+For words we're likely to use frequently,
+please follow the spelling, capitalization, and punctuation here:
 
 - ADHDevOps (when referencing the greater community)
 - ADHDevOps.club (when referencing this website)
@@ -147,6 +163,7 @@ Please follow the spelling, capitalization, and punctuation here:
 (Please suggest other terms we should list here!)
 
 If you're unsure how to capitalize a specific term
-and it's not listed in the Microsoft style guide,
-search Wikipedia for an example where it's used in a sentence
-(so, not the page title or the first word of a sentence).
+and it's not listed in the [Microsoft style guide](https://docs.microsoft.com/en-us/style-guide/),
+try searching Wikipedia for an example where it's used in a sentence.
+(So, not the page title or the first word of a sentence,
+which usually get capitalized no matter what.)
