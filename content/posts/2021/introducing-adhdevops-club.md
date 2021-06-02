@@ -5,7 +5,7 @@ slug: introducing
 tags: ["community"]
 author:
   name: Shelby Spees
-  url: https://shelbyspees.com
+  url: https://spees.dev
   pronouns: "she/they"
 ---
 
