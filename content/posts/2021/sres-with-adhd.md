@@ -15,10 +15,19 @@ What's unique about this work that makes us find it so engaging?
 
 <!--more-->
 
-## We're good in a crisis
+<!-- https://twitter.com/richburroughs/status/1397197195774996486 -->
+{{< tweet 1397197195774996486 >}}
+
+## We're "good in a crisis"
 
 When people talk about so-called [ADHD superpowers](),
 they often bring up that we're good in a crisis.
+
+<!-- https://twitter.com/tef_ebooks/status/1388994543509442570 -->
+{{< twitter 1388994543509442570 >}}
+
+<!-- https://twitter.com/tef_ebooks/status/1388996090758844416 -->
+{{< twitter 1388996090758844416 >}}
 
 ## We're systems thinkers
 
@@ -38,4 +47,4 @@ Typing the same information into two separate forms
 without the option to copy and paste?
 It's benign torture.
 
-## We value correctness
+## We have strong ideals

@@ -25,6 +25,8 @@ themeColor = "light" # "dark", "auto", "light"
 
 # lives in static/ directory of site
 logo = "simple-logo-light-mode.png"
+logoLight = "simple-logo-light-mode.png"
+logoDark = "simple-logo-dark-mode.png"
 
 [[menu.main]]
 name = "Home"
