@@ -3,7 +3,7 @@
 All content is written in
 [Markdown](https://www.markdownguide.org/basic-syntax/).
 
-Please check out the [project style guide](/docs/STYLE_GUIDE.md),
+Please check out the [project style guide](./STYLE_GUIDE.md),
 which contains more detailed guidelines for authors.
 
 If you'd like to join the ADHDevOps team to gain write access to the repository,
@@ -45,7 +45,7 @@ If you have feedback or suggestions, please open an issue there!
 
 You don't need to be able to run the site locally to contribute content,
 but it does help a lot.
-Please see [DEVELOPMENT.md](/docs/DEVELOPMENT.md) for instructions.
+Please see [DEVELOPMENT.md](./DEVELOPMENT.md) for instructions.
 
 When in doubt, open an issue!
 
